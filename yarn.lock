@@ -236,10 +236,10 @@
     "@babel/helper-validator-identifier" "^7.15.7"
     to-fast-properties "^2.0.0"
 
-"@faker-js/faker@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-6.0.0.tgz#b613ebf5f5ebb2ab987afb567d8b7fe860199c13"
-  integrity sha512-10zLCKhp3YEmBuko71ivcMoIZcCLXgQVck6aNswX+AWwaek/L8S3yz9i8m3tHigRkcF6F2vI+qtdtyySHK+bGA==
+"@faker-js/faker@^6.3.1":
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-6.3.1.tgz#1ae963dd40405450a2945408cba553e1afa3e0fb"
+  integrity sha512-8YXBE2ZcU/pImVOHX7MWrSR/X5up7t6rPWZlk34RwZEcdr3ua6X+32pSd6XuOQRN+vbuvYNfA6iey8NbrjuMFQ==
 
 "@rollup/plugin-replace@^3.0.1":
   version "3.0.1"
@@ -266,17 +266,17 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@tanstack/react-table@8.0.0-alpha.37":
-  version "8.0.0-alpha.37"
-  resolved "https://registry.npmjs.org/@tanstack/react-table/-/react-table-8.0.0-alpha.37.tgz#491a6d0641fa83341405885675fa3327371405bf"
-  integrity sha512-44hkn1qdIVGQp5jLQWPRAjCMkNYzhv+v9SCQbIpqsRDZgxPaqGVSZY07D2rIIv7ThAswLzmJL8jIW+SEc+CFfQ==
+"@tanstack/react-table@8.0.0-alpha.89":
+  version "8.0.0-alpha.89"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-table/-/react-table-8.0.0-alpha.89.tgz#2bfaa349e124f4ce17f08ab7aef78bf73a551cf6"
+  integrity sha512-zF8A5YSN9mUUXN5dhHokONn3jsiWvyvvcIqI2G1yxyun00zEtnZdGMzDPWPNNg/9NgQcpz0NcfuORxRjhV00jg==
   dependencies:
-    "@tanstack/table-core" "8.0.0-alpha.37"
+    "@tanstack/table-core" "8.0.0-alpha.89"
 
-"@tanstack/table-core@8.0.0-alpha.37":
-  version "8.0.0-alpha.37"
-  resolved "https://registry.npmjs.org/@tanstack/table-core/-/table-core-8.0.0-alpha.37.tgz#0a84c7c489caaac2c6716183c8f8291b99d3039c"
-  integrity sha512-8PLNs8R35MvlQgMWlBO8feab1n3CRZnbuU0LRfnsI3OOrlx8/7NJsjfdnkRnfsqHJYPJ2fL0Ij5yD3D5LXwAiw==
+"@tanstack/table-core@8.0.0-alpha.89":
+  version "8.0.0-alpha.89"
+  resolved "https://registry.yarnpkg.com/@tanstack/table-core/-/table-core-8.0.0-alpha.89.tgz#2f4e8cd5f1f8c07963bee3c5dd623b11875c3d33"
+  integrity sha512-kpkNywOxk8yRBAqKfETtc2WJoyMYnhBjz6nQhFXZCrCCAkrgU4Uu7v/oL1jVE3KtgMkm1Ks4FfS/Uk8+PaynyQ==
 
 "@types/estree@0.0.39":
   version "0.0.39"
